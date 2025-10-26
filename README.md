@@ -43,19 +43,19 @@
 
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ISONIC0788&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shemaarafati2020&theme=radical&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ISONIC0788&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=radical&hide_border=true)
 
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ISONIC0788&theme=react-dark&hide_border=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shemaarafati2020&theme=react-dark&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ISONIC0788&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </p>
 
 
@@ -67,8 +67,8 @@
 
 ## 📫 Let's Connect!  
 
-📧 **Email:** ituzeebedi12@gmail.com  
-🔗 **LinkedIn:** [ITUZE Agacyo Ebedi Meleck](https://www.linkedin.com/in/ituze-agacyo-ebed-meleck-65a13b2b7/)   
+📧 **Email:** shemaaraafati26@gmail.com 
+
 
 ⚡ *"Turning ideas into impactful solutions!"*  
 

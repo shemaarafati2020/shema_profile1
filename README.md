@@ -10,7 +10,9 @@
   </a>
 </p>
 
-
+.
+.
+.
 
 
 
@@ -125,14 +127,6 @@ location: 🌍 Global
 <!-- GITHUB STATS SECTION -->
 <h2 align="center" style="font-family: 'Times New Roman', serif;">📊 GitHub Analytics</h2>
 
-<p align="center">
-  <a href="https://github.com/shemaarafati2020">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=FFFFFF"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaarafati2020&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF"/>
-  </a>
-</p>
-
-
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
@@ -147,9 +141,6 @@ location: 🌍 Global
   <img src="https://github-trophies.vercel.app/?username=shemaarafati2020&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" alt="Trophies Alt" />
-</p>
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">

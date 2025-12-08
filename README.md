@@ -128,19 +128,12 @@ location: 🌍 Global
   </a>
 </p>
 
-<!-- GITHUB BADGES -->
-<h3 align="center" style="font-family: 'Times New Roman', serif;">🏅 GitHub Badges</h3>
+<!-- STREAK STATS -->
+<h3 align="center" style="font-family: 'Times New Roman', serif;">🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/🌟_Arctic_Code_Vault-Contributor-00C9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🦈_Pull_Shark-Badge-92FE9D?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/⭐_Starstruck-Badge-FFD700?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/👨‍💻_Developer_Program-Member-00C9FF?style=for-the-badge&labelColor=0D1117" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/🧪_YOLO-Badge-FF6B6B?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/💫_Quickdraw-Badge-48CAE4?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🐙_Pair_Extraordinaire-Badge-9B59B6?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/📦_Open_Sourcerer-Badge-92FE9D?style=for-the-badge&labelColor=0D1117" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shemaarafati2020&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=00C9FF&stroke=00C9FF" alt="GitHub Streak" />
+  </a>
 </p>
 
 <!-- ACTIVITY GRAPH -->
@@ -153,22 +146,11 @@ location: 🌍 Global
 <!-- TROPHIES -->
 <h3 align="center" style="font-family: 'Times New Roman', serif;">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=shemaarafati2020&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
 </p>
 
-<!-- ACHIEVEMENT BADGES -->
-<h3 align="center" style="font-family: 'Times New Roman', serif;">🏦 Achievements</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/📊_Public_Repos-20+-00C9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/⭐_Total_Stars-50+-92FE9D?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🔀_Total_Forks-30+-48CAE4?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/👥_Followers-100+-FFD700?style=for-the-badge&labelColor=0D1117" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/📅_Years_on_GitHub-4+-00C9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/📝_Total_Commits-500+-92FE9D?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🔧_PRs_Merged-25+-48CAE4?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🐛_Issues_Closed-40+-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" alt="Trophies Alt" />
 </p>
 
 <!-- CONTRIBUTION SNAKE -->

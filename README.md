@@ -50,7 +50,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shemaarafati2020&theme=radical&hide_border=true)
 
 ### 📈 GitHub Overview Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=radical)
 
 ### 📉 Contribution Activity Graph
 <p align="center">

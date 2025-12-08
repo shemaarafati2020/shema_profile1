@@ -1,3 +1,5 @@
+[![Ultralytics - YOLO](https://img.shields.io/badge/Ultralytics-YOLO-blue)](https://github.com/ultralytics/ultralytics)
+
 <p align="center">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Shema+Arafati;IT+Student+at+RP_Karongi+College+%26+Software+Engineer;CTO+of+Ebyte+Code+Labs;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />

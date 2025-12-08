@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=200&section=header&text=Shema%20Arafati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20IT%20Student%20%40%20SKillArc%20Corporation&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=200&width=1200&section=header&text=Shema%20Arafati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20IT%20Student%20%40%20SKillArc%20Corporation&descAlignY=55&descSize=18"/>
 </p>
 
 <!-- ANIMATED TYPING - TIMES NEW ROMAN -->

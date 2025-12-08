@@ -10,6 +10,10 @@
   </a>
 </p>
 
+
+
+
+
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shemaarafati2020&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
@@ -128,13 +132,7 @@ location: 🌍 Global
   </a>
 </p>
 
-<!-- STREAK STATS -->
-<h3 align="center" style="font-family: 'Times New Roman', serif;">🔥 GitHub Streak</h3>
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shemaarafati2020&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=00C9FF&stroke=00C9FF" alt="GitHub Streak" />
-  </a>
-</p>
+
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">

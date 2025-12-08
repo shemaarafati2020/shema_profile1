@@ -129,9 +129,10 @@ location: 🌍 Global
 </p>
 
 <!-- STREAK STATS -->
+<h3 align="center" style="font-family: 'Times New Roman', serif;">🔥 GitHub Streak</h3>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=shemaarafati2020&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=00C9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shemaarafati2020&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=00C9FF&stroke=00C9FF" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -145,11 +146,11 @@ location: 🌍 Global
 <!-- TROPHIES -->
 <h3 align="center" style="font-family: 'Times New Roman', serif;">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=shemaarafati2020&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=discord&no-frame=true&row=1&column=7" alt="Trophies Alt" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=5" alt="Trophies Alt" />
 </p>
 
 <!-- CONTRIBUTION SNAKE -->

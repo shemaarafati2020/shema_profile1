@@ -45,22 +45,22 @@
 
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shemaarafati2020&theme=radical&hide_border=true)
 
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shemaarafati2020&theme=radical&hide_border=true)
+
+### 📈 GitHub Overview Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=radical&hide_border=true)
 
-
-
+### 📉 Contribution Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shemaarafati2020&theme=react-dark&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
-
+### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=radical&row=1&column=6" alt="GitHub Trophies"/>
 </p>
-
-
 
 
 <

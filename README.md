@@ -1,4 +1,4 @@
-[![Ultralytics - YOLO](https://img.shields.io/badge/Ultralytics-YOLO-blue)](https://github.com/ultralytics/ultralytics)
+
 
 <p align="center">
 <p align="center">

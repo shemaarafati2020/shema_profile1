@@ -1,31 +1,36 @@
 <!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shema%20Arafati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Software%20Engineer%40%20SKillArc%20Corporation&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=200&section=header&text=Shema%20Arafati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20IT%20Student%20%40%20SKillArc%20Corporation&descAlignY=55&descSize=18"/>
 </p>
 
-
+<!-- ANIMATED TYPING - TIMES NEW ROMAN -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Building+Next-Gen+Software+Solutions;%F0%9F%92%A1+Innovating+at+SKillArc+Corporation;%F0%9F%8C%9F+Full-Stack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- PROFILE VIEWS & SOCIAL BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shemaarafati2020&label=Profile%20Views&color=FF00FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shemaarafati2020?label=Followers&style=for-the-badge&color=FF00FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/shemaarafati2020?label=Stars&style=for-the-badge&color=FF00FF" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=shemaarafati2020&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shemaarafati2020?label=Followers&style=for-the-badge&color=92FE9D&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/shemaarafati2020?label=Stars&style=for-the-badge&color=00C9FF" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Innovator-FF00FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🧠_Problem%20Solver-8A2BE2?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/💻_Open%20Source-FF4500?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🎯_Goal%20Oriented-00D4FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🔥_Innovator-00C9FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🧠_Problem%20Solver-00D9A5?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/💻_Open%20Source-00B4D8?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎯_Goal%20Oriented-48CAE4?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <!-- RAINBOW DIVIDER -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- ABOUT ME SECTION -->
-<h2 align="center">
+<h2 align="center" style="font-family: 'Times New Roman', serif;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  About Me
+  <span style="font-family: 'Times New Roman', serif;">About Me</span>
 </h2>
 
 <table align="center">
@@ -53,20 +58,20 @@ location: 🌍 Global
 </table>
 
 <!-- CURRENTLY WORKING ON -->
-<h3 align="center">🔭 Currently Working On</h3>
+<h3 align="center" style="font-family: 'Times New Roman', serif;">🔭 Currently Working On</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/📱_Mobile_Apps-React_Native-61DAFB?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🌐_Web_Apps-MERN_Stack-00D4FF?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/⚙️_Backend-Spring_Boot-6DB33F?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_&_Docker-FF9900?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📱_Mobile_Apps-React_Native-00C9FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌐_Web_Apps-MERN_Stack-00D9A5?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⚙️_Backend-Spring_Boot-48CAE4?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_&_Docker-90E0EF?style=flat-square&labelColor=0D1117" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 <!-- TECH STACK SECTION -->
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center" style="font-family: 'Times New Roman', serif;">🛠️ Tech Stack & Tools</h2>
 
-<h4 align="center">💻 Programming Languages</h4>
+<h4 align="center" style="font-family: 'Times New Roman', serif;">💻 Programming Languages</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -78,7 +83,7 @@ location: 🌍 Global
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
-<h4 align="center">🌐 Frontend Development</h4>
+<h4 align="center" style="font-family: 'Times New Roman', serif;">🌐 Frontend Development</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -88,7 +93,7 @@ location: 🌍 Global
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<h4 align="center">⚙️ Backend & Database</h4>
+<h4 align="center" style="font-family: 'Times New Roman', serif;">⚙️ Backend & Database</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -99,7 +104,7 @@ location: 🌍 Global
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-<h4 align="center">🔧 Tools & Platforms</h4>
+<h4 align="center" style="font-family: 'Times New Roman', serif;">🔧 Tools & Platforms</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -114,34 +119,37 @@ location: 🌍 Global
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 <!-- GITHUB STATS SECTION -->
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 align="center" style="font-family: 'Times New Roman', serif;">📊 GitHub Analytics</h2>
 
 <p align="center">
   <a href="https://github.com/shemaarafati2020">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF00FF&icon_color=FF00FF"/>
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shemaarafati2020&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF00FF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=92FE9D&text_color=FFFFFF"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaarafati2020&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&text_color=FFFFFF"/>
   </a>
 </p>
 
 <!-- STREAK STATS -->
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=shemaarafati2020&theme=radical&hide_border=true&background=0D1117&ring=FF00FF&fire=FF00FF&currStreakLabel=FF00FF&sideLabels=FF00FF" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=shemaarafati2020&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=92FE9D&currStreakLabel=00C9FF&sideLabels=00C9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak" />
   </a>
 </p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <a href="https://github.com/shemaarafati2020">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shemaarafati2020&custom_title=📈%20Contribution%20Activity&bg_color=0D1117&color=FF00FF&line=FF00FF&point=FFFFFF&area_color=FF00FF&area=true&hide_border=true" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shemaarafati2020&custom_title=📈%20Contribution%20Activity&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&area_color=00C9FF&area=true&hide_border=true" width="95%"/>
   </a>
 </p>
 
 <!-- TROPHIES -->
+<h3 align="center" style="font-family: 'Times New Roman', serif;">🏆 GitHub Trophies</h3>
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=discord&no-frame=true&row=1&column=7" alt="Trophies Alt" />
 </p>
 
 <!-- CONTRIBUTION SNAKE -->
@@ -152,20 +160,20 @@ location: 🌍 Global
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 <!-- SPOTIFY / NOW PLAYING (Optional Section) -->
-<h2 align="center">🎵 Vibes While Coding</h2>
+<h2 align="center" style="font-family: 'Times New Roman', serif;">🎵 Vibes While Coding</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/🎧_Favorite_Genre-Lo--Fi_&_Electronic-1DB954?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/☕_Fuel-Coffee_&_Tea-6F4E37?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/⏰_Timezone-Always_Coding-FF6B6B?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎧_Favorite_Genre-Lo--Fi_&_Electronic-00C9FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/☕_Fuel-Coffee_&_Tea-92FE9D?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⏰_Timezone-Always_Coding-48CAE4?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
 <!-- QUOTES SECTION -->
-<h2 align="center">💬 Developer Wisdom</h2>
+<h2 align="center" style="font-family: 'Times New Roman', serif;">💬 Developer Wisdom</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 <details align="center">
@@ -185,7 +193,7 @@ location: 🌍 Global
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 
 <!-- CONNECT SECTION -->
-<h2 align="center">🤝 Let's Connect</h2>
+<h2 align="center" style="font-family: 'Times New Roman', serif;">🤝 Let's Connect</h2>
 
 <p align="center">
   <a href="mailto:shemaaraafati26@gmail.com">
@@ -206,11 +214,11 @@ location: 🌍 Global
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📧_Email-shemaaraafati26@gmail.com-FF00FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📧_Email-shemaaraafati26@gmail.com-00C9FF?style=flat-square&labelColor=0D1117" />
 </p>
 
 <!-- SUPPORT SECTION -->
-<h3 align="center">☕ Support My Work</h3>
+<h3 align="center" style="font-family: 'Times New Roman', serif;">☕ Support My Work</h3>
 <p align="center">
   <a href="https://buymeacoffee.com/shemaarafati">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
@@ -221,15 +229,21 @@ location: 🌍 Global
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=FF00F7&center=true&vCenter=true&width=500&lines=✨+Turning+Ideas+Into+Impactful+Solutions!;🚀+Let's+Build+Something+Amazing+Together!;💡+Innovation+Starts+With+A+Single+Line+of+Code" />
+  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=%E2%9C%A8+Turning+Ideas+Into+Impactful+Solutions!;%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!;%F0%9F%92%A1+Innovation+Starts+With+A+Single+Line+of+Code;%F0%9F%8C%9F+Welcome+to+SKillArc+Corporation!" />
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-FF00FF?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Powered%20by-☕%20Coffee-6F4E37?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Made%20with-❤️-00C9FF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Powered%20by-☕%20Coffee-92FE9D?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Built%20at-SKillArc%20Corp-48CAE4?style=flat-square&labelColor=0D1117" />
+</p>
+
+<!-- LAST UPDATED -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Last%20Updated-December%202024-00C9FF?style=flat-square&labelColor=0D1117" />
 </p>
 

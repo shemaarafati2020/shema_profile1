@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF00F7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Shema+Arafati+👋;IT+Student+%7C+Software+Engineer;CTO+%40+Ebyte+Code+Labs;Welcome+to+my+GitHub+Profile!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=FF00F7&center=true&vCenter=true&width=650&lines=Hi+there!+I'm+Shema+Arafati+👋;IT+Student+%7C+Software+Engineer;Welcome+to+my+GitHub+Profile!" />
 </p>
 
 <p align="center">

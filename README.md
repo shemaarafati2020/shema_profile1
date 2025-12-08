@@ -1,6 +1,6 @@
 <!-- ANIMATED HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shema%20Arafati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Software%20Engineer%20%7C%20CTO%20%40%20Ebyte%20Code%20Labs&descAlignY=52&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shema%20Arafati&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Software%20Engineer%40%20SKillArc%20Corporation&descAlignY=52&descSize=18"/>
 </p>
 
 <!-- ANIMATED TYPING -->
@@ -40,7 +40,7 @@
 ```yaml
 name: Shema Arafati
 role: Software Engineer & IT Student
-company: CTO @ Ebyte Code Labs
+company: SKillArc Corporation
 location: 🌍 Global
 ```
 
@@ -115,10 +115,6 @@ location: 🌍 Global
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
-<!-- SKILL ICONS DISPLAY -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,php,go,react,nextjs,nodejs,express,spring,mysql,mongodb,postgres,redis,docker,git,github,vscode,figma&perline=11" />
-</p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 

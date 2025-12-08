@@ -6,7 +6,7 @@
 <!-- ANIMATED TYPING - TIMES NEW ROMAN -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=%F0%9F%9A%80+Building+Next-Gen+Software+Solutions;%F0%9F%92%A1+Innovating+at+SKillArc+Corporation;%F0%9F%8C%9F+Full-Stack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%F0%9F%9A%80+Building+Next-Gen+Software+Solutions;%F0%9F%92%A1+Innovating+at+SKillArc+Corporation;%F0%9F%8C%9F+Full-Stack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
